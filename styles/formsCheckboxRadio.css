@@ -1,0 +1,18 @@
+.checkbox, .radio {
+	width: 24px;
+	height: 24px;
+	padding: 0;
+	background: url(../images/forms/checkBoxSelect.png) no-repeat;
+	display: block;
+	clear: left;
+	float: left;
+}
+.radio {
+	background: url(../images/forms/radioButtonSelect.png) no-repeat;
+}
+label {
+	font: 12px/25px arial,sans-serif;
+	margin: 0 0 0 5px;
+	top: 15px;
+	float: left;
+}
